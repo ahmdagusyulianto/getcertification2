@@ -47,5 +47,3 @@ WebUI.verifyElementVisible(findTestObject('Valid Login/element form login presen
 
 WebUI.closeBrowser()
 
-WebUI.dismissAlert()
-
